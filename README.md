@@ -16,7 +16,7 @@ First you need to write the code on the arduino using Arduino IDE.Then connect t
 If you face any problems, feel free to raise a issue.
 
 ## Preview
-[<img src="https://raw.githubusercontent.com/Microsoftlabs/Frolics/main/src/collage.png"
+[<img src="https://raw.githubusercontent.com/rootCircle/Frolics/main/src/collage.png"
 alt="Screenshot"
 height="500">](#Introduction)
 
